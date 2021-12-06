@@ -1,0 +1,19 @@
+.PracticeOnClick {
+}
+
+#btn {
+  border: 0;
+  width: 100px;
+  height: 30px;
+  color: black;
+  background-color: white;
+  cursor: pointer;
+}
+
+#hidden1 {
+  display: none;
+}
+
+#hidden2 {
+  display: none;
+}
